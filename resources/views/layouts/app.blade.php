@@ -7,6 +7,7 @@
     @include( 'libraries.styles')
 </head>
 <body>
+    @include('libraries.scripts')
 
 </body>
 </html>
